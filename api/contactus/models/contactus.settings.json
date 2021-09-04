@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contactuses",
+  "info": {
+    "name": "Contactus"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "FullName": {
+      "type": "string"
+    },
+    "Text": {
+      "type": "richtext"
+    },
+    "RecivedDate": {
+      "type": "datetime"
+    }
+  }
+}
