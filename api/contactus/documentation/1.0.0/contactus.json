@@ -532,6 +532,9 @@
             "type": "string",
             "format": "date-time"
           },
+          "Category": {
+            "type": "string"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -549,6 +552,9 @@
           "RecivedDate": {
             "type": "string",
             "format": "date-time"
+          },
+          "Category": {
+            "type": "string"
           },
           "published_at": {
             "type": "string",

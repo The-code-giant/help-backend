@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "contactuses",
   "info": {
-    "name": "Contactus"
+    "name": "Contactus",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -19,6 +20,9 @@
     },
     "RecivedDate": {
       "type": "datetime"
+    },
+    "Category": {
+      "type": "string"
     }
   }
 }
