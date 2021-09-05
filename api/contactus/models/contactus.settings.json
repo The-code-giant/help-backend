@@ -23,6 +23,15 @@
     },
     "Category": {
       "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    },
+    "PhoneNumber": {
+      "type": "string"
+    },
+    "Accommodation": {
+      "type": "string"
     }
   }
 }

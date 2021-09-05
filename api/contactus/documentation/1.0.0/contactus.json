@@ -535,6 +535,15 @@
           "Category": {
             "type": "string"
           },
+          "Email": {
+            "type": "string"
+          },
+          "PhoneNumber": {
+            "type": "string"
+          },
+          "Accommodation": {
+            "type": "string"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -554,6 +563,15 @@
             "format": "date-time"
           },
           "Category": {
+            "type": "string"
+          },
+          "Email": {
+            "type": "string"
+          },
+          "PhoneNumber": {
+            "type": "string"
+          },
+          "Accommodation": {
             "type": "string"
           },
           "published_at": {
